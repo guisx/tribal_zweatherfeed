@@ -1,6 +1,6 @@
 zWeatherFeed-tribal
 
-Personal version for zWeatherFeed jQuery plugin
+I'm created a new version for zWeatherFeed jQuery plugin
 Fusion script zWeatherFeed v1.3.0 and script zWeatherFeed-zazar v1.2.1
 
 Update words in French 
